@@ -1,18 +1,1 @@
-
-
-
-└── src
-    ├── components
-          ├── layouts
-              ├── NavBar.js
-              ├── SignedInLinks.js
-              ├── SignedOutLinks.js
-    ├── redux
-        ├── features
-            ├── userSlice.js
-        ├── store.js
-    ├── App.js
-    ├── index.js
-    ├── firebase.js
-
-
+This is an example of using Firebase Auth, Redux Toolkit and React Router in React Application
